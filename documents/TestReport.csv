@@ -1,0 +1,28 @@
+TestCase,TestCase,TestSteps,Expected,Actual,Status,Severity,Remarks
+,Desc:,,Result:,Result:,,,
+TC001,Product,Navigate,Product ,page load,passed,low,Works as
+,listing,to the pro,page show,ed correct,,,expected
+,page load,duct page.,all items,ly,,,
+,,,,,,,
+TC002,Add to,Add items,item add,added and,passed,N/A,Works as
+,cart ,in cart,ed and sh,displayed,,,expected
+,,,ws in cart,correctly,,,
+,,,,,,,
+TC003,Check,Resize br,Layout ad,layout wo,passed,N/A,Works as
+,Responsi,owser ,justs to,rks correc,,,expected
+,veness,,size,tly,,,
+,,,,,,,
+TC004,Search,Enter item,shows the,product,passed,N/A,Works as
+,Function,name and ,searched,matching,,,expected
+,ality,click sear,product,the name,,,
+,,ch button,,appeared,,,
+,,,,,,,
+TC005,Cross,open app,all pages,works,passed,N/A,Works as
+,browser,in diff,should,properly,,,expected
+,test,browsers,load pro,on diff,,,
+,,,perly,browsers,,,
+,,,,,,,
+TC006,Invalid,enter ,Error msg,correct ,passed,N/A,Works as
+,login,wrong,invalid ,error msg,,,expected
+,attempt,credential,pass or ,displayed,,,
+,,,email,,,,
